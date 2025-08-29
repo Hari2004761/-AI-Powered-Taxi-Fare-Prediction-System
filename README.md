@@ -8,6 +8,8 @@ This project is an **end-to-end AI system** designed to **predict taxi fares** u
 
 The model has been trained on the **Taxi Trip Fare Data 2023** dataset from Kaggle, capturing **trip-level details such as passenger count, distance, duration, and payment type**. The goal is to provide **accurate fare predictions** that can be integrated into ride-hailing services, transport analytics dashboards, or cost estimation tools.
 
+Dataset:https://www.kaggle.com/datasets/hrish4/taxi-trip-fare-data-2023
+
 ---
 
 ## 🔑 Key Features
